@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+}
+#randomGenerator{
+    
+    padding: 10px 20px;
+    background-color:blueviolet;
+    color: aliceblue;
+    font-size: 1.5em;
+
+}
+.button{
+    text-align: center;
+}
+.edge{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+}
+.labelMin-max{
+    font-size: 1.1em;
+    color: rgb(23, 32, 62);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    
+    
+    
+}
+.lab{
+    text-align: center;
+    
+}
+#randomNumberLabel{
+    border: 2px solid ;
+    width: 100px;
+
+}
